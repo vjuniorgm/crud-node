@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ----------------------------------
 ESPANHOL
 ----------------------------------
@@ -50,3 +51,6 @@ PORTUGUÊS
 - Não deve ser possível cadastrar o e-mail já cadastrado
 - Deve ser possível remover usuário
 - Deve ser possível alterar os dados do usuário
+=======
+HOLA
+>>>>>>> 13fd74c98d8ff50fcd088d54197fe2569299421c
